@@ -1,1 +1,2 @@
 building numeric addition calculator 2+3=5
+now developing addition for decimal 2.0+3.0=5.0
